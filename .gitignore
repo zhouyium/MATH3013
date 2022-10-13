@@ -31,5 +31,7 @@
 *.out
 *.app
 
+.rar
+
 cmake-build-debug
 .idea
