@@ -11,7 +11,7 @@ template<typename T>
 class ComplexNumber {
 public:
     ComplexNumber();//Default construct function
-    ComplexNumber(T real, T image);
+    ComplexNumber(T real, T image=0);
     ~ComplexNumber();
 
 public:
@@ -30,6 +30,8 @@ public:
 
 template<typename T>
 ComplexNumber<T>::ComplexNumber() {
+    _real  = 0;
+    _image = 0;
 }
 
 template<typename T>

@@ -15,6 +15,12 @@ int main() {
     ComplexNumber<int> d(0,4);
     std::cout<<"The complex number d is:";
     d.print();
+    ComplexNumber<int> e;
+    std::cout<<"The complex number e is:";
+    e.print();
+    ComplexNumber<int> f(100);
+    std::cout<<"The complex number f is:";
+    f.print();
 
     std::cout<<"-----\n\n";
 
