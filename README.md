@@ -12,3 +12,8 @@ We will teach you to release a complex number in C++ step by step
 In this project, I will finish a basic complex number.
 
 We can output the value of a complex number.
+
+## Step 2
+In this project, We will implement the operator=.
+
+So we can ressign a complex value using the operator=.
