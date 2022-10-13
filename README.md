@@ -21,4 +21,9 @@ So we can ressign a complex value using the operator=.
 ## Step 3
 In this project, We will implement the operator+.
 
-Now we can finish complex number a+b problem.
+Now we can finish complex number c=a+b problem.
+
+## Step 4
+In this project, We will implement the operator+=.
+
+Now we can finish complex number a+=b problem.
