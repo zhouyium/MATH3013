@@ -17,3 +17,8 @@ We can output the value of a complex number.
 In this project, We will implement the operator=.
 
 So we can ressign a complex value using the operator=.
+
+## Step 3
+In this project, We will implement the operator+.
+
+Now we can finish complex number a+b problem.
