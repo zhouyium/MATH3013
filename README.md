@@ -27,3 +27,8 @@ Now we can finish complex number c=a+b problem.
 In this project, We will implement the operator+=.
 
 Now we can finish complex number a+=b problem.
+
+## Step 5
+We using double to describe the real part and imaginary part, it is not convenient.
+
+In this project, We will use C++ template to describe the complex class.
