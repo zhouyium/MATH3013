@@ -1,6 +1,9 @@
 # About
 This is the MATH3013, University of Macau.
-The language is C++.
+
+The language is C++14.
+
+IDE is Clion2021.1.2
 
 # ComplexNumber
 We will teach you to release a complex number in C++ step by step
